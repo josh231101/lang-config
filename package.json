@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "CLI tool that adds key values for N languages to translate our projects",
   "main": "src/index.js",
+  "bin" : "src/index.js",
   "keywords": [
     "lang",
     "translate"
